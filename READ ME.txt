@@ -1,1 +1,46 @@
-{\rtf1}
+# DDS XP Calculator
+
+Hey! Welcome to the DDS XP Calculator! This tool helps you calculate how much XP you need to level up to your desired level in *Driving Destruction Simulator*.
+
+## Features
+
+- Calculate XP needed to reach a target level.
+- User-friendly interface with input fields for current and target levels.
+- Live XP calculations with results displayed instantly.
+
+## How to Use
+
+1. **Open the Webpage**:
+   - Open `index.html` in your web browser to access the XP calculator.
+
+2. **Input Levels**:
+   - Enter your current level and the target level in the provided input fields.
+
+3. **Calculate XP**:
+   - Click the "Calculate" button to see how much XP you need to reach your target level.
+
+## Files Included
+
+- `index.html`: The main HTML file for the webpage.
+- `styles.css`: The CSS file for styling the webpage.
+- `script.js`: The JavaScript file that contains the XP calculation logic.
+
+## Deployment
+
+This project is hosted on GitHub Pages. You can view the live site [here](https://username.github.io/xp-calculator) (replace with your actual GitHub Pages URL).
+
+## Safety Notice
+
+**Hey! This file is safe, and does not have any viruses!** You can use it with confidence knowing it's clean and secure.
+
+## Contributing
+
+If you have suggestions or improvements for this calculator, feel free to open an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Thanks for using the DDS XP Calculator! Enjoy calculating your XP and leveling up!

@@ -1,6 +1,6 @@
 function calculateXP() {
     const xpPerLevel = 50;
-    const maxXP = 20000;
+    const maxXP = 2000;
 
     // Get input values
     const currentLevel = parseInt(document.getElementById('currentLevel').value, 10);
